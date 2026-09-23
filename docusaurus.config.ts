@@ -77,8 +77,8 @@ const config: Config = {
     navbar: {
       title: 'SumniWiki',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'SumniWiki Logo',
+        src: 'img/sumniwiki_logo.svg',
       },
       items: [
         {
