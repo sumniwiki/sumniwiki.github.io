@@ -33,6 +33,11 @@ const config: Config = {
   i18n: {
     defaultLocale: 'en',
     locales: ['en', 'ko_KR'],
+    localeConfigs: {
+    ko_KR: {
+      label: '한국어',
+      htmlLang: 'ko-KR',
+    },
   },
 
   presets: [
