@@ -15,16 +15,16 @@ const FeatureList: FeatureItem[] = [
     imageUrl: require('@site/static/img/with_Jesus_cave.jpg').default,
     description: (
       <>
-        Meet Jesus and learn the Word for This Age.
+        Meet Jesus and learn the God's Word for our time.
       </>
     ),
   },
   {
-    title: 'Pray for the World',
+    title: 'Pray',
     imageUrl: require('@site/static/img/with_Jesus_mountain.jpg').default,
     description: (
       <>
-        Establish conditions through prayer for the salvation of the world.
+        Pray for the salvation of the world.
       </>
     ),
   },
@@ -33,7 +33,7 @@ const FeatureList: FeatureItem[] = [
     imageUrl: require('@site/static/img/with_Jesus_Alpha.jpg').default,
     description: (
       <>
-        Convey the New Word with Jesus and begin the Providential History of Sumni.
+        Begin the providential history of Sumni by spreading the God's Word for the new age.
       </>
     ),
   },
