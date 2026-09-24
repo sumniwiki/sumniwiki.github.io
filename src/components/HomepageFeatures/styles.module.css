@@ -7,5 +7,8 @@
 
 .featureSvg {
   height: 200px;
-  width: 200px;
+  width: auto;
+  max-width: 100%; /* Prevent image from overflowing the column */
+  display: block;
+  margin: 0 auto;
 }
