@@ -15,7 +15,7 @@ const FeatureList: FeatureItem[] = [
     imageUrl: require('@site/static/img/with_Jesus_cave.jpg').default,
     description: (
       <>
-        Meet Jesus and learn the Word of the Age.
+        Meet Jesus and learn the Word for This Age.
       </>
     ),
   },
@@ -33,7 +33,7 @@ const FeatureList: FeatureItem[] = [
     imageUrl: require('@site/static/img/with_Jesus_Alpha.jpg').default,
     description: (
       <>
-        Share the New Word with Jesus and begin the Providential History of Sumni.
+        Convey the New Word with Jesus and begin the Providential History of Sumni.
       </>
     ),
   },
