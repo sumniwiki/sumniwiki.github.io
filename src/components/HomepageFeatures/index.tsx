@@ -12,7 +12,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Meet Jesus',
-    imageUrl: require('@site/static/img/with_Jesus_cave.jpeg').default,
+    imageUrl: require('@site/static/img/with_Jesus_cave.jpg').default,
     description: (
       <>
         Meet Jesus and learn the Word of the Age.
@@ -21,7 +21,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Pray for the World',
-    imageUrl: require('@site/static/img/with_Jesus_mountain.jpeg').default,
+    imageUrl: require('@site/static/img/with_Jesus_mountain.jpg').default,
     description: (
       <>
         Establish conditions through prayer for the salvation of the world.
@@ -30,7 +30,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Begin the Sumni',
-    imageUrl: require('@site/static/img/with_Jesus_Alpha.jpeg').default,
+    imageUrl: require('@site/static/img/with_Jesus_Alpha.jpg').default,
     description: (
       <>
         Share the New Word with Jesus and begin the Providential History of Sumni.
