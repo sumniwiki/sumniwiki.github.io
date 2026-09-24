@@ -145,8 +145,8 @@ const config: Config = {
               to: '/blog',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'Email',
+              href: 'mailto:sumni.wiki@gmail.com',
             },
           ],
         },
