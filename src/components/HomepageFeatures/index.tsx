@@ -33,7 +33,7 @@ const FeatureList: FeatureItem[] = [
     imageUrl: require('@site/static/img/with_Jesus_Alpha.jpeg').default,
     description: (
       <>
-        Share the New Word with Jesus and begin the Sumni (Providence) History.
+        Share the New Word with Jesus and begin the Providential History of Sumni.
       </>
     ),
   },
