@@ -33,7 +33,7 @@ const FeatureList: FeatureItem[] = [
     imageUrl: require('@site/static/img/with_Jesus_Alpha.jpg').default,
     description: (
       <>
-        Begin the providential history of Sumni by spreading the God's Word for the new age.
+        Begin the providential history of Sumni by spreading the Word for the new age.
       </>
     ),
   },
