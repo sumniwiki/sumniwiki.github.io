@@ -98,8 +98,8 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
+          href: 'mailto:sumni.wiki@gmail.com',
+          label: 'Email Us',
           position: 'right',
         },
         {
@@ -121,19 +121,11 @@ const config: Config = {
           ],
         },
         {
-          title: 'Community',
+          title: 'Related Sites',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
+              label: 'Wolmyeongdong',
+              href: 'https://wolmyeongdong.or.kr',
             },
           ],
         },
@@ -145,7 +137,7 @@ const config: Config = {
               to: '/blog',
             },
             {
-              label: 'Email',
+              label: 'Email Us',
               href: 'mailto:sumni.wiki@gmail.com',
             },
           ],
