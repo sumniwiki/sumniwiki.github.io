@@ -124,6 +124,10 @@ const config: Config = {
           title: 'Related Sites',
           items: [
             {
+              label: 'CGM',
+              href: 'https://www.cgm.or.kr',
+            },
+            {
               label: 'Wolmyeongdong',
               href: 'https://wolmyeongdong.or.kr',
             },
