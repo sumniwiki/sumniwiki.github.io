@@ -158,7 +158,7 @@ const config: Config = {
           ],
         },
         {
-          title: 'More',
+          title: 'Project',
           items: [
             {
               label: 'About',
