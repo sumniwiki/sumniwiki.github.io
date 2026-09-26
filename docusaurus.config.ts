@@ -115,10 +115,6 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
-            },
-            {
               label: 'Founder',
               to: '/',
             },
@@ -132,11 +128,19 @@ const config: Config = {
             },
             {
               label: 'Places',
-              to: '/docs/intro',
+              to: '/',
             },
             {
               label: 'Works',
               to: '/',
+            },
+            {
+              label: '–',
+              to: '/',
+            },
+            {
+              label: 'Tutorial',
+              to: '/docs/intro',
             },
           ],
         },
