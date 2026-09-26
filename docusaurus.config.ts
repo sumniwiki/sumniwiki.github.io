@@ -118,6 +118,26 @@ const config: Config = {
               label: 'Tutorial',
               to: '/docs/intro',
             },
+            {
+              label: 'Founder',
+              to: '/',
+            },
+            {
+              label: 'The Movement',
+              to: '/',
+            },
+            {
+              label: 'Teachings',
+              to: '/',
+            },
+            {
+              label: 'Places',
+              to: '/docs/intro',
+            },
+            {
+              label: 'Works',
+              to: '/',
+            },
           ],
         },
         {
@@ -137,8 +157,8 @@ const config: Config = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
+              label: 'About',
+              to: '/',
             },
             {
               label: 'Email Us',
