@@ -29,3 +29,9 @@
   --ifm-color-primary-lightest: #A4C3E1;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* Footnote anchor offset */
+[id^="footnote-"],
+[id^="ref-"] {
+  scroll-margin-top: 4rem;
+}
