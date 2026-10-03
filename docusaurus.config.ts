@@ -131,14 +131,6 @@ const config: Config = {
               label: '가르침',
               to: '/docs/category/teachings',
             },
-            {
-              label: '장소',
-              to: '/docs/category/places',
-            },
-            {
-              label: '저작',
-              to: '/docs/category/works',
-            },
           ],
         },
         {
