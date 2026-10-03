@@ -99,6 +99,11 @@ const config: Config = {
         },
         // {to: '/blog', label: 'Blog', position: 'left'},
         {
+          href: 'https://wolmyeongdong.or.kr',
+          label: '월명동',
+          position: 'right',
+        },
+        {
           href: 'mailto:sumni.wiki@gmail.com',
           label: '이메일',
           position: 'right',
