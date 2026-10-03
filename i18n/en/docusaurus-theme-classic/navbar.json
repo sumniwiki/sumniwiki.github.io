@@ -11,6 +11,10 @@
     "message": "Docs",
     "description": "Navbar item with label 문서"
   },
+  "item.label.월명동": {
+    "message": "Wolmyeongdong",
+    "description": "Navbar item with label 월명동"
+  },
   "item.label.이메일": {
     "message": "Email",
     "description": "Navbar item with label 이메일"
