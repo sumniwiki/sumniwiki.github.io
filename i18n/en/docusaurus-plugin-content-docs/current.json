@@ -1,0 +1,86 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.창립자": {
+    "message": "Founder",
+    "description": "The label for category '창립자' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.창립자.link.generated-index.description": {
+    "message": "description.",
+    "description": "The generated-index page description for category '창립자' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.생애": {
+    "message": "Life",
+    "description": "The label for category '생애' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.생애.link.generated-index.description": {
+    "message": "description.",
+    "description": "The generated-index page description for category '생애' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.복음의 역사": {
+    "message": "The Movement",
+    "description": "The label for category '복음의 역사' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.복음의 역사.link.generated-index.description": {
+    "message": "description.",
+    "description": "The generated-index page description for category '복음의 역사' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.가르침": {
+    "message": "Teachings",
+    "description": "The label for category '가르침' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.가르침.link.generated-index.description": {
+    "message": "description.",
+    "description": "The generated-index page description for category '가르침' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.핵심 교리": {
+    "message": "Core Doctrines",
+    "description": "The label for category '핵심 교리' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.핵심 교리.link.generated-index.description": {
+    "message": "description.",
+    "description": "The generated-index page description for category '핵심 교리' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.주제별 말씀": {
+    "message": "Thematic Messages",
+    "description": "The label for category '주제별 말씀' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.주제별 말씀.link.generated-index.description": {
+    "message": "description.",
+    "description": "The generated-index page description for category '주제별 말씀' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.장소": {
+    "message": "Places",
+    "description": "The label for category '장소' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.장소.link.generated-index.description": {
+    "message": "description.",
+    "description": "The generated-index page description for category '장소' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.명소": {
+    "message": "Landmarks",
+    "description": "The label for category '명소' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.명소.link.generated-index.description": {
+    "message": "description.",
+    "description": "The generated-index page description for category '명소' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.저작": {
+    "message": "Works",
+    "description": "The label for category '저작' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.저작.link.generated-index.description": {
+    "message": "description.",
+    "description": "The generated-index page description for category '저작' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.저술": {
+    "message": "Writings",
+    "description": "The label for category '저술' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.저술.link.generated-index.description": {
+    "message": "description.",
+    "description": "The generated-index page description for category '저술' in sidebar 'tutorialSidebar'"
+  }
+}

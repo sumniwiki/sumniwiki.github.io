@@ -1,0 +1,9 @@
+{
+  "label": "명소",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "slug": "/category/landmarks",
+    "description": "description."
+  }
+}

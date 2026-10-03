@@ -1,0 +1,9 @@
+{
+  "label": "복음의 역사",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "slug": "/category/the-movement",
+    "description": "description."
+  }
+}

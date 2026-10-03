@@ -1,0 +1,58 @@
+{
+  "link.title.문서": {
+    "message": "Docs",
+    "description": "The title of the footer links column with title=문서 in the footer"
+  },
+  "link.title.관련 사이트": {
+    "message": "Related Sites",
+    "description": "The title of the footer links column with title=관련 사이트 in the footer"
+  },
+  "link.title.프로젝트": {
+    "message": "Project",
+    "description": "The title of the footer links column with title=프로젝트 in the footer"
+  },
+  "link.item.label.개요": {
+    "message": "Overview",
+    "description": "The label of footer link with label=개요 linking to /docs/overview"
+  },
+  "link.item.label.창립자": {
+    "message": "Founder",
+    "description": "The label of footer link with label=창립자 linking to /docs/category/founder"
+  },
+  "link.item.label.복음 역사": {
+    "message": "The Movement",
+    "description": "The label of footer link with label=복음 역사 linking to /docs/category/the-movement"
+  },
+  "link.item.label.가르침": {
+    "message": "Teachings",
+    "description": "The label of footer link with label=가르침 linking to /docs/category/teachings"
+  },
+  "link.item.label.장소": {
+    "message": "Places",
+    "description": "The label of footer link with label=장소 linking to /docs/category/places"
+  },
+  "link.item.label.저작": {
+    "message": "Works",
+    "description": "The label of footer link with label=저작 linking to /docs/category/works"
+  },
+  "link.item.label.기독교복음선교회": {
+    "message": "CGM",
+    "description": "The label of footer link with label=기독교복음선교회 linking to https://www.cgm.or.kr"
+  },
+  "link.item.label.월명동": {
+    "message": "Wolmyeongdong",
+    "description": "The label of footer link with label=월명동 linking to https://wolmyeongdong.or.kr"
+  },
+  "link.item.label.소개": {
+    "message": "About",
+    "description": "The label of footer link with label=소개 linking to /"
+  },
+  "link.item.label.이메일": {
+    "message": "Email",
+    "description": "The label of footer link with label=이메일 linking to mailto:sumni.wiki@gmail.com"
+  },
+  "copyright": {
+    "message": "Copyright © 2026 SumniWiki. Built with Docusaurus.",
+    "description": "The footer copyright"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "label": "생애",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "slug": "/category/life",
+    "description": "description."
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "label": "장소",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "slug": "/category/places",
+    "description": "description."
+  }
+}

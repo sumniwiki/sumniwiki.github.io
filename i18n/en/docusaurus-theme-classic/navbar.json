@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "SumniWiki",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "SumniWiki Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.문서": {
+    "message": "Docs",
+    "description": "Navbar item with label 문서"
+  },
+  "item.label.이메일": {
+    "message": "Email",
+    "description": "Navbar item with label 이메일"
+  }
+}

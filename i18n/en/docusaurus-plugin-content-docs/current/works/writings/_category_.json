@@ -1,0 +1,9 @@
+{
+  "label": "Writings",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "slug": "/category/writings",
+    "description": "description."
+  }
+}
