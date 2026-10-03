@@ -27,14 +27,6 @@
     "message": "Teachings",
     "description": "The label of footer link with label=가르침 linking to /docs/category/teachings"
   },
-  "link.item.label.장소": {
-    "message": "Places",
-    "description": "The label of footer link with label=장소 linking to /docs/category/places"
-  },
-  "link.item.label.저작": {
-    "message": "Works",
-    "description": "The label of footer link with label=저작 linking to /docs/category/works"
-  },
   "link.item.label.기독교복음선교회": {
     "message": "CGM",
     "description": "The label of footer link with label=기독교복음선교회 linking to https://www.cgm.or.kr"
