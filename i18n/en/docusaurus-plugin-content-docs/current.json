@@ -67,13 +67,13 @@
     "message": "description.",
     "description": "The generated-index page description for category '명소' in sidebar 'tutorialSidebar'"
   },
-  "sidebar.tutorialSidebar.category.저작": {
+  "sidebar.tutorialSidebar.category.작품": {
     "message": "Works",
-    "description": "The label for category '저작' in sidebar 'tutorialSidebar'"
+    "description": "The label for category '작품' in sidebar 'tutorialSidebar'"
   },
-  "sidebar.tutorialSidebar.category.저작.link.generated-index.description": {
+  "sidebar.tutorialSidebar.category.작품.link.generated-index.description": {
     "message": "description.",
-    "description": "The generated-index page description for category '저작' in sidebar 'tutorialSidebar'"
+    "description": "The generated-index page description for category '작품' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.저술": {
     "message": "Writings",
